@@ -1,0 +1,63 @@
+.borda{
+    border: 2px, solid, black;
+    
+} 
+html *{
+    font-size: 30px;
+    font-weight: 300;
+}
+ 
+.irEsq20{
+    padding-right: 20%;
+}
+.irDir20{
+    padding-left: 20%;
+}
+.irEsq50{
+    padding-right:50%;
+}
+.irDir50{
+    padding-left: 50%;
+}
+.fonteCursiva{
+    font-family: cursive;
+}
+.margemBotao{
+    margin-left: 25%;
+   
+}
+.irDir15{
+    margin-left: 20%;
+}
+ 
+h1{
+    color:white;
+    font-weight: bold;
+} 
+.polt{
+    font-weight: bold;
+}
+header{ 
+    font-size: 30px;
+    color: white; 
+}
+ul{
+    display: inline;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+li{
+    float: left;
+}
+ 
+
+/* 
+.fundoheader{    background-color: red;font-size: 30px;color: white;} 
+
+header{color:white;background-color:red;font-family:cursive; font-size:50px; } */
+.fim{
+     
+    text-align: end;
+}
+ 
